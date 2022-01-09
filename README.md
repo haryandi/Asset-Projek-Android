@@ -2,7 +2,9 @@
 
 
 
-Untuk Backup login github terus di fork
+Untuk Backup data 
+buat akun github
+login github terus di fork
 
 
 
@@ -14,8 +16,7 @@ haryandi di ganti dengan username github mu
 
 https://raw.githubusercontent.com/haryandi/Asset-Projek-Android/Fake-Video-Call/xxxxxx 
 
-**diganti jadi
-**
+**diganti jadi**
 
 https://raw.githubusercontent.com/usernamemu/Asset-Projek-Android/Fake-Video-Call/xxxxxxx
 
