@@ -12,10 +12,10 @@ username nya tinggal ganti yang ada di file excel..
 haryandi di ganti dengan username github mu
 
 
-https://raw.githubusercontent.com/**haryandi**/Asset-Projek-Android/Fake-Video-Call/xxxxxx 
+https://raw.githubusercontent.com/haryandi/Asset-Projek-Android/Fake-Video-Call/xxxxxx 
 
 **diganti jadi
 **
 
-https://raw.githubusercontent.com/**usernamemu**/Asset-Projek-Android/Fake-Video-Call/xxxxxxx
+https://raw.githubusercontent.com/usernamemu/Asset-Projek-Android/Fake-Video-Call/xxxxxxx
 
